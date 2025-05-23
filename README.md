@@ -47,7 +47,7 @@
 
 ## 📌 Featured Projects
 
-- [🛡️ Smart Elephant Fencing System](https://github.com/SahalMurshid/Smart-Elephant-Fencing-System)  
+- [🛡️ Smart Elephant Fencing System](https://github.com/SahalMurshid/Smart-Fencing)  
   A project aimed at reducing human-elephant conflicts using real-time object detection and intelligent deterrent responses.
 
 - ⚙️ *KSRTC Bus Tracking App* (coming soon)  
