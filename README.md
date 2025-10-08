@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sahal Murshid
 
-🎓 I'm currently in my 3rd year of B.Tech in **Artificial Intelligence & Data Science** at Ilahia College of Engineering and Technology, Kerala.
+🎓 I'm currently in my 4th year of B.Tech in **Artificial Intelligence & Data Science** at Ilahia College of Engineering and Technology, Kerala.
 
 🔍 I'm passionate about **solving real-world problems with smart technology** — combining AI, Machine Learning, and full-stack development to build meaningful projects. Whether it's using object detection to reduce human-wildlife conflict, or building real-time tracking systems for transportation, I enjoy every part of turning ideas into working solutions.
 
