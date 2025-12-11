@@ -1,82 +1,71 @@
-# 👋 Hey, I'm Sahal Murshid
+<h1 align="center">Hi, I'm Sahal Murshid 👋</h1>
 
-🎓 I'm currently in my 4th year of B.Tech in **Artificial Intelligence & Data Science** at Ilahia College of Engineering and Technology, Kerala.
+###
 
-🔍 I'm passionate about **solving real-world problems with smart technology** — combining AI, Machine Learning, and full-stack development to build meaningful projects. Whether it's using object detection to reduce human-wildlife conflict, or building real-time tracking systems for transportation, I enjoy every part of turning ideas into working solutions.
+<p align="center">Data Scientist & AI Engineer | Specializing in Deep Learning, Computer Vision & IoT Systems</p>
 
----
+###
 
-## 💡 What I'm Working On
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+</div>
 
-- 🚧 **Smart Elephant Fencing System**  
-  A real-world AI + IoT project using YOLO object detection, warning zones, deterrent sounds, lights, and shockwaves to reduce human-elephant conflict in Kerala.
+###
 
-- 🚌 **KSRTC Bus Tracking App (In Progress)**  
-  Real-time bus location tracking app inspired by “Where’s My Train”, using FastAPI backend + Flutter frontend and PostgreSQL database.
+<div align="center">
+  <a href="https://x.com/sahalmurshid">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sahalmurshid/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:sahalmurshid@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-- 🎥 **Video Analysis with Retrieval-Augmented Generation (In Development)**  
-  System that takes video input, extracts frames, runs analysis, stores insights in a RAG database (ChromaDB), and answers questions about the video.
+<br/>
 
-- 🤖 **Mini Machine Learning Projects** (Coming Soon)  
-  Uploading small projects like fake news detection, movie recommendation system, and digit recognition to strengthen my portfolio.
+## 🐘 Featured Work: Smart Elephant Fencing System
+> **Tech Stack:** Python (YOLOv8) • OpenCV • IoT (Raspberry Pi) • Real-time Alerting
 
----
+**A real-world defense system deployed to mitigate human-wildlife conflict.**
+- **Problem:** Preventing elephant breaches in village perimeters with high latency.
+- **Solution:** Custom object detection model running on edge devices to trigger non-lethal deterrents (lights/sound).
+- **Impact:** Reduced response latency to milliseconds; operates without cloud dependency.
 
-## 🛠️ Skills & Tools
+[👉 **View the Project & Code**](https://github.com/SahalMurshid/Smart-Fencing)
 
-### Programming & Markup
-- Python
-- JavaScript
-- HTML/CSS
+<br/>
 
-### Platforms & Frameworks
-- Git & GitHub
-- FastAPI
-- Flutter
-- Firebase
-- PostgreSQL
+## 🛠️ Engineering Projects
 
-### Areas of Interest
-- Machine Learning & Deep Learning
-- Computer Vision
-- AI + IoT Projects
-- Full-Stack Development
-- Smart Systems & Real-Time Applications
+### 🚍 KSRTC Bus Tracking Architecture
+* **Stack:** FastAPI (Backend), Flutter (Mobile), PostgreSQL (Geospatial Data).
+* **Architecture:** Engineered a scalable backend to handle real-time location streams and schedule updates.
+* **Status:** Core backend logic and API endpoints completed.
 
----
+### 📹 Video Analysis & RAG System
+* **Stack:** Python, Vector DB (ChromaDB), LLMs.
+* **Function:** Extracts frames, generates embeddings, and allows natural language querying of video content.
 
-## 📌 Featured Projects
+<br/>
 
-- [🛡️ Smart Elephant Fencing System](https://github.com/SahalMurshid/Smart-Fencing)  
-  A project aimed at reducing human-elephant conflicts using real-time object detection and intelligent deterrent responses.
-
-- ⚙️ *KSRTC Bus Tracking App* (coming soon)  
-  A mobile + backend system to monitor real-time bus locations with stop tracking and schedule updates.
-
-- ⚙️ *Video Analysis with RAG* (coming soon)  
-  Extract frames → Analyze them → Store insights in a vector DB → Answer natural language questions about the video.
-
-- ⚡ *Mini Machine Learning Projects*  
-  A collection of hands-on ML projects for fake news detection, recommendations, and image recognition.
-
----
-
-## 🌍 Languages
-
-- English 🇬🇧  
-- Malayalam 🇮🇳  
-- Basic Hindi 🇮🇳
-
----
-
-## 📫 Let's Connect
-
-📧 **Email:** sahalmurshid@gmail.com  
-📱 **Phone:** +91 88006576  
-🌐 **GitHub:** [github.com/SahalMurshid](https://github.com/SahalMurshid)
-
-> *“I'm not just learning AI — I'm using it to build solutions that matter.”*
-
----
-
-### ⚡ Let’s collaborate, learn, and innovate together!
+## 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=SahalMurshid&show_icons=true&theme=dracula&hide_border=true" alt="SahalMurshid" />
+</p>
