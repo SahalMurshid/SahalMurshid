@@ -66,6 +66,4 @@
 <br/>
 
 ## 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SahalMurshid&show_icons=true&theme=dracula&hide_border=true" alt="SahalMurshid" />
-</p>
+![Sahal's Stats](https://github-readme-stats.vercel.app/api?username=SahalMurshid&show_icons=true&theme=dracula&hide_border=true&v=2)
