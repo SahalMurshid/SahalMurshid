@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
   <img width="12" />
@@ -40,28 +40,34 @@
 
 <br/>
 
-## 🐘 Featured Work: Smart Elephant Fencing System
-> **Tech Stack:** Python (YOLOv8) • OpenCV • IoT (Raspberry Pi) • Real-time Alerting
+## 🎥 Featured Work: Local Multimodal Video RAG Engine
+> **Tech Stack:** Next.js • FastAPI • PyTorch • LLaVA-1.5 7B • Whisper • ChromaDB
 
-**A real-world defense system deployed to mitigate human-wildlife conflict.**
-- **Problem:** Preventing elephant breaches in village perimeters with high latency.
-- **Solution:** Custom object detection model running on edge devices to trigger non-lethal deterrents (lights/sound).
-- **Impact:** Reduced response latency to milliseconds; operates without cloud dependency.
+**A hardware-accelerated, dual-modality RAG pipeline designed to execute semantic queries against video files entirely locally.**
+- **Problem:** Vision-Language Models struggle to maintain temporal cause-and-effect when analyzing video files, and cloud API latency breaks real-time analysis.
+- **Solution:** Engineered an asynchronous backend that extracts audio transcripts via Whisper and dynamically stitches visual frames into chronological horizontal filmstrips for a 4-bit quantized LLaVA-7B model.
+- **Impact:** Achieved accurate, context-aware video querying on consumer hardware (8GB VRAM) without cloud dependency.
 
-[👉 **View the Project & Code**](https://github.com/SahalMurshid/Smart-Fencing)
+![System Walkthrough](demo.gif)
 
 <br/>
 
 ## 🛠️ Engineering Projects
 
-### 🚍 KSRTC Bus Tracking Architecture
-* **Stack:** FastAPI (Backend), Flutter (Mobile), PostgreSQL (Geospatial Data).
-* **Architecture:** Engineered a scalable backend to handle real-time location streams and schedule updates.
-* **Status:** Core backend logic and API endpoints completed.
+### 🐘 Smart Elephant Fencing System
+* **Stack:** Python (YOLOv8) • OpenCV • IoT (Raspberry Pi)
+* **Architecture:** Custom edge computing object detection model deployed to mitigate human-wildlife conflict.
+* **Impact:** Reduced response latency to milliseconds; operates without cloud dependency triggering non-lethal deterrents (lights/sound).
+* [👉 **View the Project & Code**](https://github.com/SahalMurshid/Smart-Fencing)
 
-### 📹 Video Analysis & RAG System
-* **Stack:** Python, Vector DB (ChromaDB), LLMs.
-* **Function:** Extracts frames, generates embeddings, and allows natural language querying of video content.
+### 🚍 College Bus Tracking Architecture
+* **Stack:** FastAPI (Backend) • Flutter (Mobile) • PostgreSQL (Geospatial Data)
+* **Architecture:** Engineered a scalable backend to handle real-time location streams and schedule updates.
+* **Status:** Fully integrated with automated destination mapping, driver notification systems, and ML data collection pipelines.
+
+### 🩻 X-Ray Assistant Project
+* **Stack:** Python • PyTorch • ResNet50
+* **Function:** Deployed a ResNet50 deep learning classification model designed to accurately pre-screen medical imagery.
 
 <br/>
 
