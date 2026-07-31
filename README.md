@@ -47,7 +47,7 @@
 - **Problem:** Vision-Language Models struggle to maintain temporal cause-and-effect when analyzing video files, and cloud API latency breaks real-time analysis.
 - **Solution:** Engineered an asynchronous backend that extracts audio transcripts via Whisper and dynamically stitches visual frames into chronological horizontal filmstrips for a 4-bit quantized LLaVA-7B model.
 - **Impact:** Achieved accurate, context-aware video querying on consumer hardware (8GB VRAM) without cloud dependency.
-
+ [👉 **View the Project & Code**](https://github.com/SahalMurshid/video-rag)
 ![System Walkthrough](demo.gif)
 
 <br/>
